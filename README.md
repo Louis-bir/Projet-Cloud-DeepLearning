@@ -8,7 +8,7 @@
 ## Background du projet :
 
 Pour ce projet, nous cherchons à venir en aide à une start-up de **l'AgriTech** voulant développer des solutions innovantes pour la récolte de fruit. 
-Cette solution passe par la création d'une application permettant de **classer des fruits** en différentes catégories via une photo. Cette application permettrait de sensibiliser le grand public à la biodiversité des fruits et de mettre en place une première version du moteur de classification des images de fruits.
+Cette solution passe par la création d'une application permettant de **classer des fruits** en différentes catégories via une photo. Cette application permettra de sensibiliser le grand public à la biodiversité des fruits et de mettre en place une première version du moteur de classification des images de fruits.
 
 **Nous cherchons à anticipier le fait que le volume de données va augmenter très rapidement**, ainsi nous travaillerons via des outils **Big Data** pour se préparer au passage à l'échelle. Enfin, nous déploierons ce modèle dans le cloud (**Amazon Web Services**).  
 
